@@ -2,7 +2,7 @@ local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 local Window = Rayfield:CreateWindow({
    Name = "Key System",
    Icon = 0,
-   LoadingTitle = "Mich's Hub ",
+   LoadingTitle = "Mich's Hub",
    LoadingSubtitle = "by Mich",
    Theme = "Default",
 
@@ -20,5 +20,3 @@ local Window = Rayfield:CreateWindow({
       Key = 'https://raw.githubusercontent.com/itsmichvyt/MichsHub/refs/heads/main/jsons/temp-keys.txt?token=GHSAT0AAAAAAC5NZDPDQPHHLN2VYXYRNEHSZ4LTQLA'
    }
 })
-
-Rayfield:destroy()
