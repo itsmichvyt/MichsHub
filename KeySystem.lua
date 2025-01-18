@@ -17,6 +17,6 @@ local Window = Rayfield:CreateWindow({
       FileName = "",
       SaveKey = false,
       GrabKeyFromSite = false,
-      Key = {"LvN14r9CkLvE8f0UGkWo"}
+      Key = https://raw.githubusercontent.com/itsmichvyt/MichsHub/refs/heads/main/jsons/temp-keys.txt?token=GHSAT0AAAAAAC5NZDPDQPHHLN2VYXYRNEHSZ4LTQLA
    }
 })
