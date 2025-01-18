@@ -2,7 +2,7 @@ local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 local Window = Rayfield:CreateWindow({
    Name = "Key System",
    Icon = 0,
-   LoadingTitle = "",
+   LoadingTitle = "Mich's Hub ",
    LoadingSubtitle = "by Mich",
    Theme = "Default",
 
@@ -14,9 +14,9 @@ local Window = Rayfield:CreateWindow({
       Title = "Key System",
       Subtitle = "Loader GUI",
       Note = "Get the key from the developer or Mich",
-      FileName = "",
-      SaveKey = false,
-      GrabKeyFromSite = false,
-      Key = https://raw.githubusercontent.com/itsmichvyt/MichsHub/refs/heads/main/jsons/temp-keys.txt?token=GHSAT0AAAAAAC5NZDPDQPHHLN2VYXYRNEHSZ4LTQLA
+      FileName = "Key-TEMP",
+      SaveKey = true,
+      GrabKeyFromSite = true,
+      Key = 'https://raw.githubusercontent.com/itsmichvyt/MichsHub/refs/heads/main/jsons/temp-keys.txt?token=GHSAT0AAAAAAC5NZDPDQPHHLN2VYXYRNEHSZ4LTQLA'
    }
 })
