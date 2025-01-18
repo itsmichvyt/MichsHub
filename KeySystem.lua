@@ -20,3 +20,4 @@ local Window = Rayfield:CreateWindow({
       Key = 'https://raw.githubusercontent.com/itsmichvyt/MichsHub/refs/heads/main/jsons/temp-keys.txt'
    }
 })
+Rayfield:destroy()
